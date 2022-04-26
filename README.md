@@ -3,11 +3,11 @@
 Install a plugin by running a this command...
 
 ```sh
-iocage fetch -P <plugin_name> -g https://github.com/SumGuyV5/iocage-plugin-testing.git --update
+iocage fetch -P <plugin_name> -g https://github.com/zorglube/iocage-plugin-testing.git --update
 ```
 or for a list of plugins
 ```sh
-iocage fetch --plugins -g https://github.com/SumGuyV5/iocage-plugin-testing.git --update
+iocage fetch --plugins -g https://github.com/zorglube/iocage-plugin-testing.git --update
 ```
 
 where btfs.json is the name of the plugin you wish to install and test.
